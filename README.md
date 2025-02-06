@@ -20,5 +20,9 @@
 
 	I wrote a script to display current directory contents, including hidden files.
 
+###---- Task 5 : 
+
+	I wrote a script to display current directory contents, including hidden files with user and group IDs displayed numerically.
+
 
 
