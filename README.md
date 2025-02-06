@@ -6,5 +6,9 @@
 
 ###---- Task 1 :
 	
+	I wrote a script to display the contents list of current working directory.
+
+###---- Taske 2 : 
+
 	
 

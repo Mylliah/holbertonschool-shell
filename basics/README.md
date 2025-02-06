@@ -6,7 +6,11 @@
 
 ###---- Task 1 : 
 
-	command used :
-	 
-	 
-	
+	command used to write a script that displays the contents list of the current working directory :
+	chmod u+x file = * *to change the file's access rights and make it executable* * ;
+	./file = * *to execute script* * ;
+
+###---- Task 2 : 
+
+	command used to 
+
