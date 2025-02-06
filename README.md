@@ -16,4 +16,9 @@
 
 	I wrote a script to display current directory contents in a long format.
 
+###---- Task 4 :
+
+	I wrote a script to display current directory contents, including hidden files.
+
+
 
