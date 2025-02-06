@@ -15,10 +15,15 @@
 ###---- Task 2 : 
 
 	command used to write a script that changes the working directory to the user's home directory : 
-	cd /home
+	cd
 	chmod u+x file = * *to change the file's access rights and make it executable* * ;
 	./file = * *to execute script* * ;
 
 ###---- Task 3 :
 
-	command used to 
+	command used to write a script that displays current directory contents in a long format :  
+	ls -l
+	chmod u+x file = * *to change the file's access rights and make it executable* * ;
+	./file = * *to execute script* * ;
+
+

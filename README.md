@@ -14,4 +14,6 @@
 
 ###---- Task 3 : 	
 
-		
+	I wrote a script to display current directory contents in a long format.
+
+
