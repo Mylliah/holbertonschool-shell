@@ -28,7 +28,7 @@
 
 ###---- Task 4 :
 	
-	command used to write a script that displays current directory contents in a long format :  
+	command used to write a script that displays current directory contents in a long format, including hidden files :  
 	ls -la
 	chmod u+x file = * *to change the file's access rights and make it executable* * ;
 	./file = * *to execute script* * ;
@@ -36,7 +36,7 @@
 ###---- Task 5 : 
 
 	command used to write a script that displays current directory contents in a long format, with user and group IDs displayed numerically and hidden files :  
-	ls -n
+	ls -la -n
 	chmod u+x file = * *to change the file's access rights and make it executable* * ;
 	./file = * *to execute script* * ;
 
