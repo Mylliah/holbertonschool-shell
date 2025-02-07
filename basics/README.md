@@ -66,7 +66,9 @@
 ###---- Task 11 :
 
 	command used to write a script that list all files in the current directory and  :  
-	ls -lan /root/holbertonschool-shell /root /boot
+	ls -la . .. /boot
+
+
 
 
 
