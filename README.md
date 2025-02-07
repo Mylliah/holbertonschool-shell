@@ -52,6 +52,9 @@
 
 	I wrote a script to print the type of a file. 
 
+###---- Task 13 : 
+
+	I wrote a script to create a symbolic link to a distant directory.
 
 
 

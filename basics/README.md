@@ -75,6 +75,11 @@
 	file /tmp/iamafile
 
 
+###---- Task 13 : 
+
+	command used to write a script that creates a symbolic link to distant directory.
+	ln -s /bin/ls __ls__
+
 
 
 
