@@ -33,6 +33,12 @@
 	I wrote a script to move a file from distant directory to an other distant directory.
 
 
+###---- Task 8 : 
+
+	I wrote a script to delete a file from distant directory. 
+
+
+
 
 
 
