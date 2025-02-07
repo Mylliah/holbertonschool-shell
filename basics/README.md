@@ -83,7 +83,7 @@
 ###---- Task 14 : 
 
 	command used to write a script that copies all the HTML files from the current working directory to an other directory : 
-	cp -u *.html /root/holbertonschool-shell/
+	cp -u /root/holbertonschool-shell/basics/*.html /root/holbertonschool-shell/
 
 
 
