@@ -28,6 +28,11 @@
 
 	I wrote a script to create a directory in an other directory which is not the current working directory. 
 
+###---- Task 7 : 
+
+	I wrote a script to move a file from distant directory to an other distant directory.
+
+
 
 
 
