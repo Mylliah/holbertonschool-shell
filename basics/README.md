@@ -85,6 +85,14 @@
 	command used to write a script that copies all the HTML files from the current working directory to an other directory :
 	cp -un *.html /root/holbertonschool-shell 
 
+###---- Task 15 : 
+
+	command used to write a script that moves all files beginning with uppercase letter to the directory :
+	mv [A-Z]* /tmp/u
+
+###---- Task 16 :
+
+	command used to write a script that cleans all files with the caracter ~ :
 
 
 
