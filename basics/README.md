@@ -74,9 +74,16 @@
 
 ###---- Task 9 : 
 
-
 	command used to write a script that delete a directory in an other distant directory :  
 	rm /tmp/my_first_directory/betty
+	chmod u+x file = * *to change the file's access rights and make it executable* * ;
+	./file = * *to execute script* * ;
+
+
+###---- Task 10 : 
+
+	command used to write a script that changes the working directory to the previous one :  
+	cd -
 	chmod u+x file = * *to change the file's access rights and make it executable* * ;
 	./file = * *to execute script* * ;
 

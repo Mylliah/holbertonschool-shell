@@ -32,11 +32,17 @@
 
 	I wrote a script to move a file from distant directory to an other distant directory.
 
-
 ###---- Task 8 : 
 
 	I wrote a script to delete a file from distant directory. 
 
+###---- Taske 9 : 
+
+	I wrote a script to delete a directory from distant directory.
+
+###---- Task 10 : 
+
+	I wrote a script to change the working directory to the previous. 
 
 
 
