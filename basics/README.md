@@ -36,9 +36,21 @@
 ###---- Task 5 : 
 
 	command used to write a script that displays current directory contents in a long format, with user and group IDs displayed numerically and hidden files :  
-	ls -la -n
+	ls -lan
 	chmod u+x file = * *to change the file's access rights and make it executable* * ;
 	./file = * *to execute script* * ;
+
+###---- Task 5 : 
+
+	command used to write a script that creates a directory in an other distant directory :  
+	mkdir -p /tmp/my_first_directory
+	chmod u+x file = * *to change the file's access rights and make it executable* * ;
+	./file = * *to execute script* * ;
+
+
+
+
+
 
 
 

@@ -24,5 +24,11 @@
 
 	I wrote a script to display current directory contents, including hidden files with user and group IDs displayed numerically.
 
+###---- Task 6 :
+
+	I wrote a script to create a directory in an other directory which is not the current working directory. 
+
+
+
 
 
