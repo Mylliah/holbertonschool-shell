@@ -44,6 +44,12 @@
 
 	I wrote a script to change the working directory to the previous. 
 
+###---- Task 11 :
+
+	I wrote a script to list all files in the current directory and the parent of the working directory etc. 
+
+
+
 
 
 
