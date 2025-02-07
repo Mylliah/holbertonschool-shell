@@ -69,6 +69,12 @@
 	ls -la . .. /boot
 
 
+###---- Task 12 : 
+
+	command used to write a script that prints the type of a file : 
+	file /tmp/iamafile
+
+
 
 
 

@@ -48,6 +48,10 @@
 
 	I wrote a script to list all files in the current directory and the parent of the working directory etc. 
 
+###---- Task 12 : 
+
+	I wrote a script to print the type of a file. 
+
 
 
 
