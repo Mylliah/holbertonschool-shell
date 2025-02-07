@@ -56,6 +56,11 @@
 
 	I wrote a script to create a symbolic link to a distant directory.
 
+###---- Task 14 : 
+
+	I wrote a script to copy all HTML file from the current working directory to an other directory.
+
+
 
 
 
