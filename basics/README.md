@@ -93,7 +93,12 @@
 ###---- Task 16 :
 
 	command used to write a script that cleans all files with the caracter ~ :
+	rm *~
 
+###---- Task 17 : 
+
+	command used to write a script that creates three directories in th current working directory, but only allowed to use two spaces (and lines) :
+	
 
 
 
