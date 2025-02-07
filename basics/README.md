@@ -56,6 +56,17 @@
 	./file = * *to execute script* * ;
 
 
+###---- Task 7 : 
+
+
+	command used to write a script that creates a directory in an other distant directory :  	
+	mv /tmp/betty /tmp/my_first_directory
+	chmod u+x file = * *to change the file's access rights and make it executable* * ;
+	./file = * *to execute script* * ;
+
+
+
+
 
 
 
