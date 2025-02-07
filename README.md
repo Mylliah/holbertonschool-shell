@@ -1,64 +1,96 @@
-######**Shell, basics**
+###---- Task 0 : 
 
-###---- Task 0  : 
+	command used to write a script that prints the absolute path name of the current working directory : 
+	pwd
 
-	I wrote a script to print the absolute path name of the current working directory. 
+###---- Task 1 : 
 
-###---- Task 1 :
-	
-	I wrote a script to display the contents list of current working directory.
+	command used to write a script that displays the contents list of the current working directory :
+	ls
 
 ###---- Task 2 : 
 
-	I wrote a script to change the working directory to the user's home directory.
+	command used to write a script that changes the working directory to the user's home directory : 
+	cd
 
-###---- Task 3 : 	
+###---- Task 3 :
 
-	I wrote a script to display current directory contents in a long format.
+	command used to write a script that displays current directory contents in a long format :  
+	ls -l
 
 ###---- Task 4 :
-
-	I wrote a script to display current directory contents, including hidden files.
+	
+	command used to write a script that displays current directory contents in a long format, including hidden files :  
+	ls -la
 
 ###---- Task 5 : 
 
-	I wrote a script to display current directory contents, including hidden files with user and group IDs displayed numerically.
+	command used to write a script that displays current directory contents in a long format, with user and group IDs displayed numerically and hidden files :  
+	ls -lan
+
+###---- Task 5 : 
+
+	command used to write a script that creates a directory in an other distant directory :  
+	mkdir -p /tmp/my_first_directory
+
 
 ###---- Task 6 :
 
-	I wrote a script to create a directory in an other directory which is not the current working directory. 
+	command used to write a script that creates a directory in an other distant directory :  
+	mv -t betty /tpm/my_first_directory
+
 
 ###---- Task 7 : 
 
-	I wrote a script to move a file from distant directory to an other distant directory.
+	command used to write a script that move a file in an other distant directory :  	
+	mv /tmp/betty /tmp/my_first_directory
+
 
 ###---- Task 8 : 
+	
+	command used to write a script that creates a directory in an other distant directory :  
+	rm /tmp/my_first_directory/betty
 
-	I wrote a script to delete a file from distant directory. 
 
-###---- Taske 9 : 
+###---- Task 9 : 
 
-	I wrote a script to delete a directory from distant directory.
+	command used to write a script that delete a directory in an other distant directory :  
+	rm /tmp/my_first_directory/betty
 
 ###---- Task 10 : 
 
-	I wrote a script to change the working directory to the previous. 
+	command used to write a script that changes the working directory to the previous one :  
+	cd -
+
 
 ###---- Task 11 :
 
-	I wrote a script to list all files in the current directory and the parent of the working directory etc. 
+	command used to write a script that list all files in the current directory and  :  
+	ls -la . .. /boot
+
 
 ###---- Task 12 : 
 
-	I wrote a script to print the type of a file. 
+	command used to write a script that prints the type of a file : 
+	file /tmp/iamafile
+
 
 ###---- Task 13 : 
 
-	I wrote a script to create a symbolic link to a distant directory.
+	command used to write a script that creates a symbolic link to distant directory.
+	ln -s /bin/ls __ls__
 
 ###---- Task 14 : 
 
+	command used to write a script that copies all the HTML files from the current working directory to an other directory :
+	cp -un *.html /root/holbertonschool-shell 
 	I wrote a script to copy all HTML file from the current working directory to an other directory.
+
+###---- Task 15 : 
+
+	I wrote a script to move all the files beginning with an uppercase.
+
+
 
 
 
