@@ -13,10 +13,22 @@
 	Command used to prints all groups the current user is part of :
 	groups
 
-###---- Taske 3 :
+###---- Task 3 :
 
 	Command used to change the owner of a file :
 	chown betty hello
+
+###---- Task 4 :
+
+	Command used to create an empty file :
+	touch
+
+###---- Task 5 :
+
+	Command used to add execute permission to the owner of a file :
+	chmod 764 hello
+
+
 
 
 
