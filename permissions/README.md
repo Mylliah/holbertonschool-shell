@@ -13,5 +13,10 @@
 	Command used to prints all groups the current user is part of :
 	groups
 
+###---- Taske 3 :
+
+	Command used to change the owner of a file :
+	chown betty hello
+
 
 
