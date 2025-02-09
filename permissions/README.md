@@ -53,6 +53,27 @@
 	Command used to copy same permissions 'from' a file 'to' an other file : 
 	chmod --reference=olleh hello
 
+###---- Task 11 : 
+
+	Command used to add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
+	Regular files should not be changed :
+	chmod -R +X .
+
+###---- Task 12 : 
+
+	Command used to create a directory with permissions in the same time :
+	mkdir -m 751 my_dir
+
+###---- Task 13 : 
+
+	Command used to change group owner of a line : 
+	chown root:school hello
+
+###---- Task 14 :
+
+	Command used to change user owner et group owner in a same time for all directories and files : 
+	chown -R vicent:staff /tmp
+
 
 
 
