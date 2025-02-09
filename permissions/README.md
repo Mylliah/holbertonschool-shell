@@ -74,7 +74,15 @@
 	Command used to change user owner et group owner in a same time for all directories and files : 
 	chown -R vicent:staff /tmp
 
+###---- Task 15 : 
+	
+	Command used to change the owner and the group owner of a file with symbolic link to vincent and staff respectively :
+	chown -h vincent:staff _hello
 
+###---- Task 16 : 
+
+	Command used to change the owner of a file to vincent only if it is owned by user guillaume :	
+	chown --from=guillaume vincent hello 
 
 
 
