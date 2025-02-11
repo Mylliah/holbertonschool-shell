@@ -88,6 +88,20 @@
 	Command used to display all the lines in a file that do not contain a pattern :
 	grep -v 'bin' /etc/passwd
 
+###---- Task 18 :
+
+	Command used to display all lines of a file starting with a letter :
+	grep '^[[:alpha:]]' /etc/ssh/sshd_config
+
+###---- Task 19 :
+
+	Command used to replace all specifics characters A and c input to z and e respectively :
+	tr 'A' 'Z' | tr 'c' 'e'
+
+###---- Task 20 :
+
+	Command used to remove all specifics letters from input :
+	tr -d 'C' | tr -d 'c'
 
 
 
