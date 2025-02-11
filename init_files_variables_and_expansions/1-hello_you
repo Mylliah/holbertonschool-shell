@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'root' | echo 'hello user'
+echo 'Hello $USER'   
