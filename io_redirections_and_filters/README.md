@@ -120,7 +120,7 @@
 	->Hidden files should be listed
 	->One file name per line
 	->The listing should end with a new line
-	cat /etc/passwd | cut -d ':' -f1,6 | sort -t ':' -k1
+	find . -empty -printf '%f\n'
 
 ### ---- Taske 24:
 
@@ -131,13 +131,12 @@
 	->The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
 	->One file name per line
 	->The listing should end with a new line
-	find . -empty -printf '%f\n'
 	find . -type f -name "*.gif" | rev | cut -d/ -f1 | cut -d . -f 2- | rev | LC_ALL=C sort -f
 
 ### ---- Task 25 :
 
 	Command used to decode acrostics that use the first letter of each line.
-        The 'decoded' message has to end with a new line :	
+        ->The 'decoded' message has to end with a new line :	
 	cut -c1 | tr -d '\n' | cut -f1
 
 ### ---- Task 26 :
