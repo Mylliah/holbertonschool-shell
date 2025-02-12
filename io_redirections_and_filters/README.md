@@ -132,16 +132,19 @@
 	->One file name per line
 	->The listing should end with a new line
 	find . -empty -printf '%f\n'
+	find . -type f -name "*.gif" | rev | cut -d/ -f1 | cut -d . -f 2- | rev | LC_ALL=C sort -f
 
 ### ---- Task 25 :
 
 	Command used to decode acrostics that use the first letter of each line.
         The 'decoded' message has to end with a new line :	
+	cut -c1 | tr -d '\n' | cut -f1
 
 ### ---- Task 26 :
 
 	Command used to parse web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
         ->Order by number of requests, most active host or IP at the top	
+	tail -n +2 | cut -d$''' ''' -f1 | sort --ignore-case | uniq -c | sort --ignore-case -nr | head -11 | rev  | cut -d''' ''' -f1 | rev
 
 
 
