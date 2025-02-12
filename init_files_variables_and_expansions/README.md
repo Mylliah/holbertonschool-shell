@@ -73,10 +73,25 @@
 	Command used to converts a number frome base 10 to base 16 :
 	printf "%x\n" $DECIMAL
 
+### ---- Task 15 :
 
+	(article)
 
+### ---- Task 16 : 
 
+	Command used to encode and decode text using the rot13 encryption. Assume ASCII :
+	tr 'A-Za-z' 'N-ZA-Mn-za-m'	
 
+### ---- Task 17 :
+
+	Command used to print every other line from the input, starting with the first line :
+	paste - - | cut -f1
+	
+
+### ---- Task 18 : 
+
+	Command used to add the two numbers stored in the environment variables WATER and STIR and prints the result :
+	printf '%o\n' $(( 5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234 ) )) | tr 01234567 bestchol	
 
 
 
